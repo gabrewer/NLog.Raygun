@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25029.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLog.Raygun", "NLog.Raygun\NLog.Raygun.csproj", "{F5744BD5-98C2-4082-9D04-9D28536D5DBB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLog.Raygun", "NLog.Raygun\NLog.Raygun.csproj", "{DA6229B1-0BD6-495B-828F-11FE9685E36F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLog.Raygun.TestApp", "NLog.Raygun.TestApp\NLog.Raygun.TestApp.csproj", "{C9F0DFBA-A5D4-4C86-8884-21DF46408F79}"
 EndProject
@@ -22,10 +22,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F5744BD5-98C2-4082-9D04-9D28536D5DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F5744BD5-98C2-4082-9D04-9D28536D5DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F5744BD5-98C2-4082-9D04-9D28536D5DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F5744BD5-98C2-4082-9D04-9D28536D5DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6229B1-0BD6-495B-828F-11FE9685E36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6229B1-0BD6-495B-828F-11FE9685E36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6229B1-0BD6-495B-828F-11FE9685E36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6229B1-0BD6-495B-828F-11FE9685E36F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C9F0DFBA-A5D4-4C86-8884-21DF46408F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C9F0DFBA-A5D4-4C86-8884-21DF46408F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9F0DFBA-A5D4-4C86-8884-21DF46408F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
